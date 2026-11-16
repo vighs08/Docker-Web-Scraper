@@ -1,0 +1,5 @@
+node_modules/
+scraped_data.json
+__pycache__/
+*.py[cod]
+.env
